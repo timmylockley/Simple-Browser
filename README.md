@@ -68,6 +68,10 @@ Bash
 
 Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install --upgrade PyQt5 PyQt5-WebEngine   `
 
+### Or:
+1. Install the .deb
+2. Curl using this link: curl -sSL https://raw.githubusercontent.com/timmylockley/Simple-Browser/main/simple_browser_install.sh | bash
+   
 🚀 Usage
 --------
 
